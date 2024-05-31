@@ -57,3 +57,7 @@ Further analyzes the best performing strategies identified in the All_strategies
 
 ### Final_Portfolio Jupyter Notebook
 Creates a unique portfolio comprising the best performing strategies with optimized parameters. This notebook uses out-of-sample data to evaluate performance and risk metrics, comparing the portfolio to a buy-and-hold portfolio. Backtesting is conducted using a rolling window approach to ensure robustness and reliability of the results.
+
+### IB_strats and IB_Crypto Jupyter Notebook
+These two files are utilized to 
+
