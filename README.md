@@ -2,11 +2,11 @@
 
 ## Purpose
 
-The purpose of this Jupyter Notebook is to provide a comprehensive collection of trading strategies based on technical analysis of Ethereum cryptocurrency. Each strategy is designed to analyze historical financial data and generate buy/sell signals based on various technical indicators. This notebook is useful for traders, analysts, and researchers who want to explore, backtest, and compare different trading strategies.
+The purpose of this repository is to provide a comprehensive collection of trading strategies based on technical analysis of Ethereum cryptocurrency. Each strategy is designed to analyze historical financial data and generate buy/sell signals based on various technical indicators. This repository is useful for traders, analysts, and researchers who want to explore, backtest, and compare different trading strategies.
 
 ## Strategies Implemented
 
-In this notebook, you will find the following trading strategies implemented with detailed explanations:
+In this repository, you will find the following trading strategies implemented with detailed explanations:
 
 ### Aroon Indicator Strategies:
 - **AROOM X-Cross**: Generates signals based on the crossover of Aroon Up and Aroon Down indicators.
