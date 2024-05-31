@@ -49,11 +49,11 @@ In this notebook, you will find the following trading strategies implemented wit
 
 ## Files
 
-### All_strategies Jupyter Notebook
+### All_Strategies Jupyter Notebook
 Analyzes all the aforementioned strategies using training, validation, and testing datasets. This notebook serves as the initial step in the strategy development process, providing a comprehensive analysis of each strategy's performance.
 
-### Validation Jupyter Notebook
+### Validation_Params Jupyter Notebook
 Further analyzes the best performing strategies identified in the All_strategies notebook. This notebook focuses on fine-tuning and optimizing the parameters of these strategies to enhance their performance.
 
-### Final_portfolio Jupyter Notebook
+### Final_Portfolio Jupyter Notebook
 Creates a unique portfolio comprising the best performing strategies with optimized parameters. This notebook uses out-of-sample data to evaluate performance and risk metrics, comparing the portfolio to a buy-and-hold portfolio. Backtesting is conducted using a rolling window approach to ensure robustness and reliability of the results.
