@@ -59,5 +59,6 @@ Further analyzes the best performing strategies identified in the All_strategies
 Creates a unique portfolio comprising the best performing strategies with optimized parameters. This notebook uses out-of-sample data to evaluate performance and risk metrics, comparing the portfolio to a buy-and-hold portfolio. Backtesting is conducted using a rolling window approach to ensure robustness and reliability of the results.
 
 ### IB_strats and IB_Crypto Jupyter Notebook
-These two files are utilized to 
+These two files automate the identification of trade signals and execution of trades using various trading strategies via the Interactive Brokers (IB) API.
+The key components include functions for signal generation based on strategies such as Aroon X-Cross, Aroon Y-Cross, On-Balance Volume (OBV), Kaufman's Adaptive Moving Average (KAMA), Stochastic Oscillator, and Parabolic SAR. Additionally, files contain trade execution functions for each strategy, ensuring trades are placed with proper risk management through stop-loss and take-profit orders and the strategy runs daily at market open.
 
