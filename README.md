@@ -9,8 +9,8 @@ The purpose of this repository is to provide a comprehensive collection of tradi
 In this repository, you will find the following trading strategies implemented with detailed explanations:
 
 ### Aroon Indicator Strategies:
-- **AROOM X-Cross**: Generates signals based on the crossover of Aroon Up and Aroon Down indicators.
-- **AROOM Y-Cross**: Uses a threshold level to generate signals when Aroon indicators cross specified levels.
+- **AROON X-Cross**: Generates signals based on the crossover of Aroon Up and Aroon Down indicators.
+- **AROON Y-Cross**: Uses a threshold level to generate signals when Aroon indicators cross specified levels.
 
 ### Bollinger Bands Strategy:
 - Generates signals based on price interactions with Bollinger Bands, including the middle band (SMA) and upper/lower bands.
